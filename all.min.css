@@ -117,7 +117,7 @@ svg{fill:hsl(0,0%,53.3%)}
 .breadcrumbs h3{font-size:16px;font-weight:bold;text-transform:uppercase;margin-bottom:15px;position:relative}
 .breadcrumbs h3:before{content:"";position:absolute;width:100%;height:3px;bottom:9px;background-image:-moz-linear-gradient(left,#00a284 #489e8e);background-image:-webkit-gradient(linear,left top,right top,from(#00a284),to(#489e8e));background-image:-webkit-linear-gradient(left,#00a284,#489e8e);background-image:-o-linear-gradient(left,#00a284,#489e8e)}
 .breadcrumbs h3 span{background:#fff;position:relative;padding-right:15px;color:#049372}
-.breadcrumbs .search-label a,.breadcrumbs .search-label span{border-bottom:3px solid #00a26d;padding:0 0 10px 0}
+.breadcrumbs ul,.breadcrumbs>h3,.breadcrumbs>div,.breadcrumbs .search-label span{border-bottom:3px solid #00a26d;padding:0 0 10px 0}
 .breadcrumbs ul li:before,.breadcrumbs .search-label a:after{font-family:"Font Awesome 5 Pro","Font Awesome 5 Brands";content:'\f105';font-size:14px;font-style:normal;font-weight:normal;padding:0 5px}
 .breadcrumbs ul li:last-child a{border-bottom:3px solid #00a26d;padding:0 0 10px 0}
 .breadcrumbs ul li:first-child:before{content:unset}
@@ -710,7 +710,3 @@ border-color: #f90;}
 #comments .ban-comment{background:#ff5450;font-weight:400;color:#fff;padding:10px 12px;border-radius:4px;margin:0 0 2em}
 
 .googlezet{margin:15px auto;text-align:center}
-
-/*BoiDen By StarCuongIT*/
-::selection {background:transparent; text-shadow:#000 0 0 2px;color:#333}
-/*End BoiDen By StarCuongIT*/
