@@ -472,7 +472,7 @@ a.postviews:hover,a.tt_tg:hover,a.comment-count:hover,.post-icons:hover{backgrou
 #comment-editor{margin:0;min-height:93px;border:0}
 #comments .continue,#comments .hidden{display:none}
 /* load comment*/
-.spinner:before{content:'';box-sizing:border-box;position:absolute;top:50%;left:50%;width:80px;height:80px;background:url(//loading.io/spinners/message/index.messenger-typing-preloader.svg) center center no-repeat}
+.spinner:before{content:'';box-sizing:border-box;position:absolute;top:50%;left:50%;width:80px;height:80px;background:url(//img.nguyentinhblog.com/loading-hight.svg) center center no-repeat}
 .comment-form.spinner:before{top:20%;left:46%}
 .comment-form.load{position:relative;height:200px;width:100%}
 .box_category.spinner:before{top:30%;left:46%}
